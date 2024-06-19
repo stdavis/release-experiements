@@ -1,0 +1,14 @@
+{
+  "name": "release-experiments",
+  "version": "0.0.0-development",
+  "description": "A playground for testing different release automation tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"all tests are passing!\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^24.0.0"
+  }
+}
